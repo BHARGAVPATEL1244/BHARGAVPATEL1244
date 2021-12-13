@@ -3,7 +3,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/BHARGAV?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fiambhargavs&screen_name=iambhargavs)
 
-## I'm a Developer!!
+## I'm not your Developer!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other
@@ -15,7 +15,7 @@
 [<img align="left" alt="iambhargavs | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="bhargav1244 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="ll_bhargav_1244_ll | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="bhargavpatel1244 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />][codepen]
+[<img align="left" alt="bhargavpatel1244 | Codepen" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />][codepen]
 
 
 
